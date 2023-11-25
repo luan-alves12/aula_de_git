@@ -4,3 +4,4 @@ github aula 1
 valor novo
 conflito1 
 conflito2
+conflito3
