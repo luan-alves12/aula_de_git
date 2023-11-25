@@ -11,4 +11,7 @@ conflito3
 "Novo teste git pull 14:25 "
 realizar um conflito em local
 tentando realizar um conflito
+
+
+nova modificação
 atualizando para teste
