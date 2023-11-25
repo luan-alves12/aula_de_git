@@ -2,3 +2,5 @@ hello world
 olá mundo !
 github aula 1
 valor novo
+conflito1 
+conflito2
