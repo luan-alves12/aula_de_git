@@ -12,6 +12,7 @@ conflito3
 realizar um conflito em local
 tentando realizar um conflito
 
-
 nova modificação
 atualizando para teste
+
+aqui vou modificar para testar a branch nova_feature
