@@ -5,3 +5,5 @@ valor novo
 conflito1 
 conflito2
 conflito3
+
+"novo teste git 14:23"
