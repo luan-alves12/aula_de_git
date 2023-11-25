@@ -9,3 +9,4 @@ conflito3
 "novo teste git 14:23"
 
 "Novo teste git pull 14:25 "
+realizar um conflito em local
